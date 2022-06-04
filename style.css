@@ -37,7 +37,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: max(4rem, 10vh);
+    font-size: max(4rem, 9vh);
     color: var(--font-color);
     background-color: var(--header-color);
 }
